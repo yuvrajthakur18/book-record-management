@@ -1,2 +1,2 @@
 # book-record-management
-A book record management web application using Node.js
+A book record management API using Node.js
