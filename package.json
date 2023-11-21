@@ -1,0 +1,26 @@
+{
+  "name": "book-record-management",
+  "version": "1.0.0",
+  "description": "Book record management API using node.js and express",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node index.js",
+    "dev" : "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuvrajthakur18/book-record-management.git"
+  },
+  "author": "Yuvraj Singh Thakur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuvrajthakur18/book-record-management/issues"
+  },
+  "homepage": "https://github.com/yuvrajthakur18/book-record-management#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
